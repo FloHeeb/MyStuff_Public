@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RSiwZiIJ5H7k1DIB0tT4XdpSg/7XjPWpc/kGDzxwN9yEoOMsATv+idvCP969Rxm+3T7iRuosOP7gajY16PF2AA==",
+  "success": true,
+  "projectFilePath": "D:\\OneDrive\\PowerShell\\PSModule_CS\\MyFirstModule\\TestScripts\\TestScripts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\flohe\\.nuget\\packages\\powershellstandard.library\\5.1.0\\powershellstandard.library.5.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

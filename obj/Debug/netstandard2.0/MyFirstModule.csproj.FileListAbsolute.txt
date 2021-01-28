@@ -1,0 +1,9 @@
+D:\OneDrive\PowerShell\PSModule_CS\MyFirstModule\bin\Debug\netstandard2.0\MyFirstModule.deps.json
+D:\OneDrive\PowerShell\PSModule_CS\MyFirstModule\bin\Debug\netstandard2.0\MyFirstModule.dll
+D:\OneDrive\PowerShell\PSModule_CS\MyFirstModule\bin\Debug\netstandard2.0\MyFirstModule.pdb
+D:\OneDrive\PowerShell\PSModule_CS\MyFirstModule\obj\Debug\netstandard2.0\MyFirstModule.csprojAssemblyReference.cache
+D:\OneDrive\PowerShell\PSModule_CS\MyFirstModule\obj\Debug\netstandard2.0\MyFirstModule.AssemblyInfoInputs.cache
+D:\OneDrive\PowerShell\PSModule_CS\MyFirstModule\obj\Debug\netstandard2.0\MyFirstModule.AssemblyInfo.cs
+D:\OneDrive\PowerShell\PSModule_CS\MyFirstModule\obj\Debug\netstandard2.0\MyFirstModule.csproj.CoreCompileInputs.cache
+D:\OneDrive\PowerShell\PSModule_CS\MyFirstModule\obj\Debug\netstandard2.0\MyFirstModule.dll
+D:\OneDrive\PowerShell\PSModule_CS\MyFirstModule\obj\Debug\netstandard2.0\MyFirstModule.pdb
